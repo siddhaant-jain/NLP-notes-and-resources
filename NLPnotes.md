@@ -1,3 +1,5 @@
+
+# Resource link: [YoutubePlaylist](https://www.youtube.com/watch?v=h2kBNEShsiE&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
 - NLP techniques
     - Rules and heuristics (no comlex ML/DL ... simple rule based regex)
     - Statistics and ML
